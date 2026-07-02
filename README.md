@@ -1,6 +1,6 @@
 # pytorch-summer-2026
 
-Self-paced PyTorch curriculum: tensors → autograd → training loops → models, working from a quant/finance background rather than a general ML one. Examples lean on finance-flavored data (returns, portfolios, factor models) instead of generic toy datasets.
+Self-paced PyTorch curriculum: tensors → autograd → training loops → modelss.
 
 ## Setup
 
