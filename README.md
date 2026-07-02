@@ -1,6 +1,6 @@
 # pytorch-summer-2026
 
-Self-paced PyTorch curriculum: tensors → autograd → training loops → modelss.
+Self-paced PyTorch curriculum: tensors → autograd → training loops → models.
 
 ## Setup
 
