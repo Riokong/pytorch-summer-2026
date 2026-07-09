@@ -2,3 +2,4 @@ ptlearn/
 __pycache__/
 *.pt
 *.pth
+week1_basics/day7_data/
