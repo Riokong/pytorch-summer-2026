@@ -3,3 +3,5 @@ __pycache__/
 *.pt
 *.pth
 week1_basics/day7_data/
+week2_basics/checkpoints/
+week2_basics/metrics*.csv
