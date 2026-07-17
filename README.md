@@ -1,5 +1,7 @@
 # pytorch-summer-2026
 
+![PyTorch Learning Journey](assets/banner.png)
+
 Self-paced PyTorch / deep-learning curriculum: tensors → autograd → training loops → CNNs → transformers → RNNs, building toward a PhD-level foundation in deep learning. Loosely follows *Dive into Deep Learning* (D2L), with examples leaning on finance/quant framing (OLS, factor models, portfolio returns, credit risk) where it fits naturally.
 
 ## Setup
